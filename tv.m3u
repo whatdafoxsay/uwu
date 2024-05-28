@@ -1,34 +1,40 @@
-﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+#EXTINF:-1 tvg-id="CCTV1" ,CCTV1
+ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV2" ,CCTV2
+ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV3" ,CCTV3
+ http://183.158.209.26:10000/rtp/233.50.201.196:5140
+#EXTINF:-1 tvg-id="CCTV3" ,CCTV3
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV4" ,CCTV4
+ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5" ,CCTV5
+ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" ,CCTV5+
+ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV6" ,CCTV6
+ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV7" ,CCTV7
+ http://121.18.43.254:10000/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" ,CCTV8
+ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV9" ,CCTV9
+ https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV10" ,CCTV10
+ https://iptv.luas.edu.cn/liverespath/924e6292a0e6f7440e8380075908fed9915b3c00/780499a193-0-0-c50d57fd93cf32a5144ec8d889eb3ed9/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" ,CCTV11
+ http://221.2.146.228:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-id="CCTV12" ,CCTV12
+ https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" ,CCTV13
+ https://iptv.luas.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/0af5e4ebbf-0-0-73acd2813c45f8d650460bda2f73cdf0/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" ,CCTV14
+ https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" ,CCTV15
+ http://58.19.38.233:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-id="CCTV17" ,CCTV17
+ http://159.75.85.63:5678/zb.php?id=douyin
+#EXTINF:-1 tvg-id="CCTV4K" ,CCTV4K
+ https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:-1 tvg-id="凤凰卫视中文台" ,凤凰卫视中文台
+ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
