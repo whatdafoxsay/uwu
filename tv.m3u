@@ -9,11 +9,9 @@ http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="",CCTV-4
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 group-title="",CCTV6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="",CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 group-title="",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="",凤凰中文
@@ -24,3 +22,19 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3
 http://110.72.80.102:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204145017493579_29.png" group-title="",凤凰资讯
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-id="HN01" tvg-name="海南自贸" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" group-title="",海南自贸
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+#EXTINF:-1 tvg-id="HN02" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" group-title="",海南新闻
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+#EXTINF:-1 tvg-id="HN03" tvg-name="海南文旅" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png" group-title="",海南文旅
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
+#EXTINF:-1 tvg-id="HN04" tvg-name="海南少儿" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png" group-title="",海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+#EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" group-title="",海南公共
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1 tvg-id="HN06" tvg-name="海口一套" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A31.png" group-title="",海口一套
+http://124.225.35.97:16080/live/tv2401.m3u8
+#EXTINF:-1 tvg-id="HN07" tvg-name="海口二套" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A32.png" group-title="",海口二套
+http://124.225.35.97:16080/live/tv2402.m3u8
+#EXTINF:-1 tvg-id="HN08" tvg-name="海口三套" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A33.png" group-title="",海口三套
+http://124.225.35.97:16080/live/tv2403.m3u8
