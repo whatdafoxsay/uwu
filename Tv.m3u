@@ -9,9 +9,9 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 #EXTINF:-1 group-title="" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" epg-url="iptv",CCTV-4
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
-#EXTINF:-1 group-title="" tvg-name="TVB Plus" tvg-logo="" epg-url="iptv",TVB Plus
+#EXTINF:-1 group-title="" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" epg-url="iptv",TVB Plus
 http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 group-title="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/ESPN_identification_card.jpg" epg-url="iptv",ESPN
 http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
-#EXTINF:-1 group-title="" tvg-name="TVn" tvg-logo="" epg-url="iptv",TVn
+#EXTINF:-1 group-title="" tvg-name="TVn" tvg-logo="https://live.fanmingming.cn/tv/TVn.png" epg-url="iptv",TVn
 http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
